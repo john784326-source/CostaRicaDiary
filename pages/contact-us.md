@@ -44,8 +44,8 @@ permalink: /contact-us/
 <div class="contact-grid">
 
   <div class="contact-card">
-    <img src="/assets/images/contact-us/path22.png" alt="GRN-BRI">
-    <h3><strong>GRN-BRI</strong></h3>
+    <img src="/assets/images/contact-us/path22.png" alt="Costa Rica Diary">
+    <h3><strong>Costa Rica Diary</strong></h3>
     <p>Melbourne, Victoria, Australia</p>
     <p><a href="mailto:Grn-b%72%69@out%6C%6Fok.%63om">Grn-bri@outlook.com</a></p>
   </div>

@@ -1,18 +1,18 @@
 ---
 layout: page
-title: GRN-BRI
+title: Costa Rica Diary
 permalink: /
 ---
 
-![](/assets/images/home/RMIT-OBOR-Dec-1-Morning-74-2.jpg)
+![](/assets/images/Arenal.jpg)
 
 # The Global Research Network Belt and Road Initiative
 
-# (GRN-BRI)
+# (Costa Rica Diary)
 
  We are an independent research network that provides a global platform for researchers to share, collaborate and partner on research projects in the field of logistics, transport, trade and supply chain.
 
-[**About GRN-BRI →**](/who-we-are/)
+[**About Costa Rica Diary →**](/who-we-are/)
 
 * * *
 

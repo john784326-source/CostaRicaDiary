@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: GRN-BRI
+title: Costa Rica Diary
 
 # Your name to show in the footer
-author: GRN-BRI
+author: Costa Rica Diary
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -103,7 +103,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: GRN-BRI
+rss-description: Costa Rica Diary
 
 ###########################
 # --- General options --- #

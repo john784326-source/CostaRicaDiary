@@ -14,3 +14,9 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
   
 gemspec
 
+
+gem "webrick", "~> 1.9"
+
+gem "logger", "~> 1.7"
+
+gem "bigdecimal", "~> 4.1"
