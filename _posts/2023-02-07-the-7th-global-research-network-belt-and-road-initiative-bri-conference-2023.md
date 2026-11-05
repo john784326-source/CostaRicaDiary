@@ -30,7 +30,7 @@ _The conference was inaugurated by Hon. Onesimus Kipchumba Murkomen, Cabinet Sec
 
 ![](/assets/images/the-7th-global-research-network-belt-and-road-initiative-bri-conference-2023/BML_6146.jpg)
 
-![](/assets/images/the-7th-global-research-network-belt-and-road-initiative-bri-conference-2023/GRN-BRI-Chairman.jpg)
+![](/assets/images/the-7th-global-research-network-belt-and-road-initiative-bri-conference-2023/Costa Rica Diary-Chairman.jpg)
 
 ![](/assets/images/the-7th-global-research-network-belt-and-road-initiative-bri-conference-2023/Dean.jpg)
 

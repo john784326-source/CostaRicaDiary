@@ -10,9 +10,9 @@ permalink: /
 
 # (Costa Rica Diary)
 
- We are an independent research network that provides a global platform for researchers to share, collaborate and partner on research projects in the field of logistics, transport, trade and supply chain.
+The Costa Rica diary tells and illustrates a cross-country tour of Costa Rica. Costa Rica is a beautiful tropical paradise in Central America, with a range of environments from rainforest to high mountain range. A highlight is the climb of Cerro Cirripo, a 3800m mountain in the central highlands and one of the highest in central America. Please sponsor me in this climb, as all the money received will be donated to charity (see the charity links pages).
 
-[**About Costa Rica Diary →**](/who-we-are/)
+[**Charity links →**](/who-we-are/)
 
 * * *
 

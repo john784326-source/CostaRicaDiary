@@ -1,5 +1,5 @@
 ---
-title: "2025 The 10th Global Research Network-Belt and Road Initiative (GRN-BRI)"
+title: "2025 The 10th Global Research Network-Belt and Road Initiative (Costa Rica Diary)"
 date: 2025-09-13
 categories: 
   - "news"

@@ -27,17 +27,17 @@ author: Costa Rica Diary
 #  Author's home: "https://deanattali.com"
 
 navbar-links:
-  About us:
-    - Who We are: "who-we-are"
-    - A Brief History: "a-brief-history"
-    - Executive Committee: "executive-committee"
-    - Advisory Committee: "advisory-committee"
-    - International Steering Committee: "international-steering-committee"
-  Research Focus Areas: "research-focus-areas"
-  Conferences:
-    - Upcoming Conferences: "upcoming-conferences"
-    - Past Conferences: "past-conferences"
-  News: "news"
+  Purpose:
+    - To climb a mountain: "who-we-are"
+    - Me: "a-brief-history"
+    - Costa Rica: "executive-committee"
+    - Cerro Chirripo: "advisory-committee"
+    - Photography: "international-steering-committee"
+  Diary: "research-focus-areas"
+  Charities:
+    - Crohns: "upcoming-conferences"
+    - Cancer: "past-conferences"
+  Previous: "news"
   Contact Us: "contact-us"
 
 
