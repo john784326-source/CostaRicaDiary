@@ -1,9 +1,9 @@
 ---
-title: "2017 BRI Conference Proceedings, Zhejiang University, China"
-date: 2017-12-04
+title: "Costa Rica Diary"
+date: 2026-11-05
 categories: 
-  - "news"
-  - "past-conferences"
+  - "diary"
+  - "past-events"
 image: /assets/images/2017-bri-conference-proceedings-zhejiang-university-china/3rd-BRI.jpg
 ---
 
